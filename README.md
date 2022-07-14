@@ -24,3 +24,7 @@ Heart Dao contract address 0x90906819dD3adC6C541f2423c5680dd3fCcdc391
 
 
 Head To UNISWAP and you can buy love, just input the token address <3
+
+<a href="https://app.uniswap.org/#/increase/ETH/0xa9678a0D50D6d155f08746207e6239C28D90E30F/3000/180503?chain=polygon">Uniswap.</a>
+
+https://app.uniswap.org/#/increase/ETH/0xa9678a0D50D6d155f08746207e6239C28D90E30F/3000/180503?chain=polygon
