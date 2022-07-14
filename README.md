@@ -1,4 +1,4 @@
-# love
+# love <3
 ERC20 token $&lt;3 project
 
 Heart DAO, a funding DAO
