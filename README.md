@@ -13,8 +13,6 @@ Love token started trading at the price of 1 Matic per <3
 
 There are 100 love tokens.
 
-Heart Dao can mint new tokens.
-
 <3 is governance.
 
 *important feature about love; There can be more love.
