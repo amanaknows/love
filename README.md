@@ -20,3 +20,7 @@ There are 100 love tokens.
 Heart Dao can propose to mint new tokens to fund initiatives if they wish to do so.
 
 Heart Dao contract address 0x90906819dD3adC6C541f2423c5680dd3fCcdc391
+
+
+
+Head To UNISWAP and you can buy love, just input the token address <3
