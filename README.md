@@ -1,5 +1,6 @@
 # love <3
-ERC20 token project
+ERC20 token project on polygon, and a cute addition to your wallet!
+<img src="[img_girl.jpg](https://imgur.com/a/RxVPZSy)" alt="how love token looks in your wallet" width="500" height="600">
 
 Heart DAO, a funding DAO
 
